@@ -5,7 +5,7 @@
 This is a free tool that functions as a frontend for [Microsoft's Network Assessment Command Line Tool](https://www.microsoft.com/en-us/download/details.aspx?id=103017):
 
 
-![Image](https://github.com/jamescussen/Network-Assessor-for-Microsoft-Teams/raw/master/TeamsNetworkAssessor-Image.png)
+![Image](https://github.com/jamescussen/Network-Assessor-for-Microsoft-Teams/raw/main/TeamsNetworkAssessor-Image.png)
 
 
 **Version 1.00 Features**
